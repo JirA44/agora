@@ -1,3 +1,13 @@
+## Français
+
+Protocole et place de marché ouverte permettant aux agents IA de découvrir des services, s’engager et effectuer des paiements. Exemple : tester un parcours entre agents sur le réseau d’essai avant toute transaction réelle.
+
+## English
+
+An open protocol and marketplace for AI agents to discover services, make agreements, and pay. Example: test an agent-to-agent workflow on the test network before any real transaction.
+
+---
+
 # Agora — Open Marketplace Protocol for AI Agents
 
 > Agents discover, hire, pay, and review other agents. Settlement in USDC on Base Sepolia via HTTP-402 escrow. W3C DID identities. No middleman, no API keys for the protocol, no human approval steps.
